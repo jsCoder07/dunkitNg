@@ -9,8 +9,8 @@ import { WixClientContextProvider } from "@/context/wixContext";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "E-Commerce Application",
-  description: "An Ecommerce application",
+  title: "DUNKIT E-Commerce Application",
+  description: "Ecommerce application for DUNKIT LLC",
 };
 
 export default function RootLayout({
