@@ -18,7 +18,7 @@ function Listpage() {
       </div>
       <Filter/>
       <h1 className="mt-12 font-semibold text-xl">Deals for you</h1>
-      <ProductList/>
+      <ProductList categoryId={''}/>
     </div>
   )
 }
